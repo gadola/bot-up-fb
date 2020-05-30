@@ -1,7 +1,7 @@
 # Our community
-Group facebook: https://www.facebook.com/groups/120135051926509/
+Group facebook: https://www.facebook.com/groups/lerni/
 
-Facebook :https://www.facebook.com/CoktailDail
+Youtube channel: https://www.youtube.com/channel/UCvVwR21Pb8r06LcZ7n3eR4g
 # Folder structor
 ```
 ├── news                    
@@ -11,4 +11,4 @@ Facebook :https://www.facebook.com/CoktailDail
 ├── facebook.js             # Api Facebook
 └── ...
 ```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gadola/bot-up-fb.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/namttdh/lerni-fb-bot-news)
