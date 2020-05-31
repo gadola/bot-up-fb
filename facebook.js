@@ -48,7 +48,7 @@ function Facebook(accessToken, groupId) {
             '\n' +
             '## thông tin\n' +
             '* Bài viết được tự động đăng lúc 7h giờ sáng hàng ngày\n' +
-            '* Đây là post tự động được tạo bởi efert và lấy dữ liệu từ VnExpress');
+            '* Đây là post tự động được tạo bởi [Nam Hoàng](https://www.facebook.com/CoktailDail) và lấy dữ liệu từ VnExpress');
         formPublish.append('formatting', 'MARKDOWN');
 
         for (let i = 0; i < images.length; i++) {
